@@ -1,0 +1,19 @@
+body {
+    background-color:aliceblue;
+    padding: 3vw;
+    text-align: center;
+}
+
+section {
+    background-color: antiquewhite;
+    padding: 1.5vw;
+    border-radius: 3px;
+}
+
+section + section {
+    margin-bottom: 1vw;
+}
+
+ul {
+    list-style: none;
+}
