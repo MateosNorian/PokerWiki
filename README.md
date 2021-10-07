@@ -1,2 +1,2 @@
-# PokerWiki
- Wiki of professional poker players
+# ProductIntern
+Job board for product management interns
